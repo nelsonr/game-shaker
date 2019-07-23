@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/game-shaker/static/css/main.762d699e.chunk.css",
+    "main.css": "/game-shaker/static/css/main.79355d37.chunk.css",
     "main.js": "/game-shaker/static/js/main.1f7bdb58.chunk.js",
     "main.js.map": "/game-shaker/static/js/main.1f7bdb58.chunk.js.map",
     "runtime~main.js": "/game-shaker/static/js/runtime~main.44a53e1f.js",
@@ -8,8 +8,8 @@
     "static/js/2.65aa1cca.chunk.js": "/game-shaker/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/game-shaker/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/game-shaker/index.html",
-    "precache-manifest.1f1eefcf1d37c2a5d1114c76d28f834c.js": "/game-shaker/precache-manifest.1f1eefcf1d37c2a5d1114c76d28f834c.js",
+    "precache-manifest.b965bba1b8ef4488b6f23e40d61ec114.js": "/game-shaker/precache-manifest.b965bba1b8ef4488b6f23e40d61ec114.js",
     "service-worker.js": "/game-shaker/service-worker.js",
-    "static/css/main.762d699e.chunk.css.map": "/game-shaker/static/css/main.762d699e.chunk.css.map"
+    "static/css/main.79355d37.chunk.css.map": "/game-shaker/static/css/main.79355d37.chunk.css.map"
   }
 }
