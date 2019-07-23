@@ -69,7 +69,7 @@ const GameGenres = [
     "Turn-based strategy",
     "Turn-based tactics",
     "Vehicle simulation",
-    "List of vehicular combat",
+    "Vehicular combat",
     "Vertically scrolling",
     "Visual novel",
     "Wargame"
