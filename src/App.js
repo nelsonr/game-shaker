@@ -25,7 +25,7 @@ class App extends React.Component {
                 <main>
                     <div className="genre">{this.state.randomGenre}</div>
                     <div className="randomize">
-                        <button onClick={_ => this.randomize()}>Generate</button>
+                        <button onClick={_ => this.randomize()}>Shake!</button>
                     </div>
                 </main>
             </div>
